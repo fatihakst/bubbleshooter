@@ -1,0 +1,37 @@
+﻿  FileName.c
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(128,55): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(128,83): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(128,100): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(129,59): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(129,87): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(129,104): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(130,56): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(130,84): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(130,101): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(209,41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(209,59): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(217,46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(217,65): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(428,45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(428,63): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(430,6): warning C4013: 'Sleep' undefined; assuming extern returning int
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(693,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(694,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(708,43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(708,61): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(734,59): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(734,87): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(750,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(750,66): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(692,127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(859,64): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(859,96): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(901,64): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(901,96): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(866,38): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(866,56): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(401,1): warning C4716: 'Addition': must return a value
+C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\FileName.c(491,1): warning C4715: 'CountConnectedBubbles': not all control paths return a value
+  Final.vcxproj -> C:\Users\namye\OneDrive\Belgeler\Raylib\BUBBLE SHOOTER\32_bubbleshooter_koddosyaları\x64\Debug\Final.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
